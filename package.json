@@ -1,0 +1,17 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "Image Resize Using Sharp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Alfen Febral <alfenfebral@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sharp": "^0.20.3"
+  }
+}
